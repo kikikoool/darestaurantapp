@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/darestaurantapp/static/css/main.6c538cb8.css",
+    "main.js": "/darestaurantapp/static/js/main.a9eb3d1c.js",
+    "index.html": "/darestaurantapp/index.html",
+    "main.6c538cb8.css.map": "/darestaurantapp/static/css/main.6c538cb8.css.map",
+    "main.a9eb3d1c.js.map": "/darestaurantapp/static/js/main.a9eb3d1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c538cb8.css",
+    "static/js/main.a9eb3d1c.js"
+  ]
+}
